@@ -1,7 +1,7 @@
 import { React } from "react";
 import "./Components/css/App.css";
-import Header from "./Components/NoteComponents/Header";
 import Notes from "./Components/NoteComponents/Notes";
+import Header from "./Components/NoteComponents/Header";
 
 function App() {
   return (
